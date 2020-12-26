@@ -21,7 +21,7 @@ Improve your resume
 <table width="100%">
     <tr>
         <td width="50%">
-        <a href="https://github.com/jousefm/Mega-Course-MATLAB/blob/master/CheatSheet/MatlabCheatsheet.pdf"><img alt="MATLAB Cheat Sheet" src="Images/docx.png"/></a>
+        <a href="https://github.com/jousefm/CV/tree/master/CV_docx"><img alt="DOCX Resume" src="Images/docx.png"/></a>
         <td width="50%"><H2>Resume - DOCX Format</H2>
             .docx file for my resume.  Click on the image to immediately access the files.</td>
     </tr>
@@ -32,8 +32,8 @@ Improve your resume
     <tr>
         <td width="50%">
             <H2>Resume - ODT Format</H2>
-            .odt file for the resume. Click on the image to immediately access the files.
-        <td width="50%"><a href="https://www.youtube.com/user/TheEngiineer/"><img alt="My YouTube Channel" src="Images/odt.png"/></a></td>
+            .odt file format in case you are using Open Office. Click on the image to immediately access the files.
+        <td width="50%"><a href="https://github.com/jousefm/CV/tree/master/CV_OpenOffice/"><img alt="OpenOffice Resume" src="Images/odt.png"/></a></td>
     </tr>
 </table>
 <br/>
