@@ -23,7 +23,7 @@ Improve your resume
         <td width="50%">
         <a href="https://github.com/jousefm/Mega-Course-MATLAB/blob/master/CheatSheet/MatlabCheatsheet.pdf"><img alt="MATLAB Cheat Sheet" src="Images/docx.png"/></a>
         <td width="50%"><H2>Resume - DOCX Format</H2>
-            .docx file for my resume.  </td>
+            .docx file for my resume.  Click on the image to immediately access the files.</td>
     </tr>
 </table>
 <br/>
@@ -32,7 +32,7 @@ Improve your resume
     <tr>
         <td width="50%">
             <H2>Resume - ODT Format</H2>
-            .odt file for the resume.
+            .odt file for the resume. Click on the image to immediately access the files.
         <td width="50%"><a href="https://www.youtube.com/user/TheEngiineer/"><img alt="My YouTube Channel" src="Images/odt.png"/></a></td>
     </tr>
 </table>
