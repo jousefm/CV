@@ -41,4 +41,4 @@ Improve your resume
 Consultation
 ================
 
-In caes you need more help in your career path, consider booking a call with me here: https://www.buymeacoffee.com/jousefm
+In case you need more help on your career path, consider booking a call with me: https://www.buymeacoffee.com/jousefm
