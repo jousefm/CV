@@ -12,7 +12,7 @@ Improve your resume
         <td width="50%">
             <H2>Resume - LaTeX Format</H2>
             All LaTeX files for my resume. I downloaded this CV from a website and adapted it to my needs.
-            Click on the image to immediately access the files.
+            Click on the image to immediately access the files. 
         <td width="50%"><a href="https://github.com/jousefm/CV/tree/master/CV%20LaTeX"><img alt="LaTeX Resume" src="Images/latex.png"/></a></td>
     </tr>
 </table>
