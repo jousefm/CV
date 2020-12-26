@@ -23,7 +23,7 @@ Improve your resume
         <td width="50%">
         <a href="https://github.com/jousefm/CV/tree/master/CV_docx"><img alt="DOCX Resume" src="Images/docx.png"/></a>
         <td width="50%"><H2>Resume - DOCX Format</H2>
-            .docx file for my resume.  Click on the image to immediately access the files.</td>
+            .docx file for my resume.  Click on the image to immediately access the files. Click on the image to immediately access the files.</td>
     </tr>
 </table>
 <br/>
@@ -32,7 +32,7 @@ Improve your resume
     <tr>
         <td width="50%">
             <H2>Resume - ODT Format</H2>
-            .odt file format in case you are using Open Office. Click on the image to immediately access the files.
+            .odt file format in case you are using Open Office. Click on the image to immediately access the files. Click on the image to immediately access the files.
         <td width="50%"><a href="https://github.com/jousefm/CV/tree/master/CV_OpenOffice/"><img alt="OpenOffice Resume" src="Images/odt.png"/></a></td>
     </tr>
 </table>
