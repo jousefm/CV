@@ -5,8 +5,6 @@ Improve your resume
 
 [![Twitter](https://img.shields.io/twitter/follow/Jousefm2.svg?label=Follow&style=social)](https://twitter.com/Jousefm2) [![LinkedIn](https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social)](https://www.linkedin.com/in/jousefmurad/)
 
-**[Patreon Page](https://www.patreon.com/theengiineer)**
-
 <table width="100%">
     <tr>
         <td width="50%">
